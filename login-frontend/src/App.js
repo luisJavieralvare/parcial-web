@@ -176,6 +176,7 @@ const styles = {
     marginBottom: '50px',
     position: 'relative',
     zIndex: 3,
+    
   },
   avatarIcon: {
     width: '80px',
